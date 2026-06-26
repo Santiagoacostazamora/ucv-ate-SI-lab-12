@@ -213,7 +213,7 @@ git init
 git add .
 git commit -m "Laboratorio 12 - Perceptron Simple"
 git branch -M main
-git remote add origin https://github.com/TU-USUARIO/ucv-ate-SI-lab-12.git
+git remote add origin https://github.com/Santiagoacostazamora/ucv-ate-SI-lab-12.git
 git push -u origin main
 ```
 
