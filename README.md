@@ -221,7 +221,7 @@ Reemplaza `TU-USUARIO` por tu usuario real de GitHub.
 
 ## Autor
 
-- Estudiante: Completar nombre
+- Estudiante: Oscar Santiago Acosta Zamora 
 - Curso: Sistemas Inteligentes
 - Universidad: UCV
 - Laboratorio: 12
